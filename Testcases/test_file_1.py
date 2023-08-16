@@ -11,7 +11,7 @@ class Test_001:
         b=30
         sum=a+b
         print(sum)
-        if sum == 10:
+        if sum == 40:
             assert True
         else:
             assert False
